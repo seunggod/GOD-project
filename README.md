@@ -26,4 +26,4 @@
 
 
 ## E-R Diagram
-![E-R Diagram](images/UAP%20E-R%20diagram.png)
+![E-R Diagram](images/GOD%20E-R%20diagram.png)
